@@ -40,7 +40,7 @@ header {
 }
 
 .profile-section .name {
-    font-family: 'Avenir', cursive;
+    font-family: 'Avenir';
     font-size: 3.2em;
     font-weight: bold;
     color: #333;
